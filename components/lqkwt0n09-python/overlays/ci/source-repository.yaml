@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lqkwt0n09-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lqkwt0n09-python
